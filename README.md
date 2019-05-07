@@ -1,14 +1,5 @@
 # React 面试题 & 回答
 
-> 本项目的面试题来源于 [sudheerj/reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions) 这个项目。一时兴起就动起了翻译的念头，由于本人的 React 功力尚浅，翻译的内容难免有误或不妥的地方，望请各位见谅。如果你喜欢这个项目，请 Star，更感谢你的 Pull Request。
-
-以下是现阶段本项目的短期计划：
-
-1. 完成前期的翻译工作
-2. 为 React 16 新特性，添加在线示例或完整的示例代码
-
-这里再次感谢 **[liaoyongfu](https://github.com/liaoyongfu)** 的大力支持🌹！
-
 ### 目录
 <!-- TOC -->
 | 序号. | 问题 |
